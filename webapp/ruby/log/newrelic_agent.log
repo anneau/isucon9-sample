@@ -1,0 +1,165 @@
+# Logfile created on 2020-09-05 03:03:07 +0000 by logger.rb/66358
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : Starting the New Relic agent version 6.12.0.367 in "development" environment.
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : Reading configuration from newrelic.yml (/home/isucon/isucari/webapp/ruby)
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : Environment: development
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : No known dispatcher detected.
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : Application: isucari-20200905 (Development)
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] ERROR : Invalid license key: ENV['NEW_RELIC_KEY']
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : Installing Net instrumentation
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : Installing Sinatra instrumentation
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : Finished instrumentation
+[2020-09-05 03:03:07 +0000 ip-10-0-0-9 (12379)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-09-05 03:06:58 +0000 ip-10-0-0-9 (12379)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : NEW_RELIC_KEY does not have a corresponding configuration setting (key does not exist).
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : Run `rake newrelic:config:docs` or visit https://newrelic.com/docs/ruby/ruby-agent-configuration to see a list of available configuration settings.
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : Starting the New Relic agent version 6.12.0.367 in "development" environment.
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : Reading configuration from config/newrelic.yml (/home/isucon/isucari/webapp/ruby)
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : Environment: development
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : No known dispatcher detected.
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : Application: isucari-20200905 (Development)
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] ERROR : Invalid license key: ENV['NEW_RELIC_KEY']
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : Installing Net instrumentation
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : Installing Sinatra instrumentation
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : Finished instrumentation
+[2020-09-05 03:19:23 +0000 ip-10-0-0-9 (15298)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : NEW_RELIC_KEY does not have a corresponding configuration setting (key does not exist).
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : Run `rake newrelic:config:docs` or visit https://newrelic.com/docs/ruby/ruby-agent-configuration to see a list of available configuration settings.
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : Starting the New Relic agent version 6.12.0.367 in "development" environment.
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : Reading configuration from config/newrelic.yml (/home/isucon/isucari/webapp/ruby)
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : Environment: development
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : No known dispatcher detected.
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : Application: isucari-20200905 (Development)
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] ERROR : Invalid license key: ENV['NEW_RELIC_KEY']
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : Installing Net instrumentation
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : Installing Sinatra instrumentation
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : Finished instrumentation
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15343)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : NEW_RELIC_KEY does not have a corresponding configuration setting (key does not exist).
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : Run `rake newrelic:config:docs` or visit https://newrelic.com/docs/ruby/ruby-agent-configuration to see a list of available configuration settings.
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : Starting the New Relic agent version 6.12.0.367 in "development" environment.
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : Reading configuration from config/newrelic.yml (/home/isucon/isucari/webapp/ruby)
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : Environment: development
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : No known dispatcher detected.
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : Application: isucari-20200905 (Development)
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] ERROR : Invalid license key: ENV['NEW_RELIC_KEY']
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : Installing Net instrumentation
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : Installing Sinatra instrumentation
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : Finished instrumentation
+[2020-09-05 03:19:24 +0000 ip-10-0-0-9 (15382)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : NEW_RELIC_KEY does not have a corresponding configuration setting (key does not exist).
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : Run `rake newrelic:config:docs` or visit https://newrelic.com/docs/ruby/ruby-agent-configuration to see a list of available configuration settings.
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : Starting the New Relic agent version 6.12.0.367 in "development" environment.
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : Reading configuration from config/newrelic.yml (/home/isucon/isucari/webapp/ruby)
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : Environment: development
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : No known dispatcher detected.
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : Application: isucari-20200905 (Development)
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] ERROR : Invalid license key: ENV['NEW_RELIC_KEY']
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : Installing Net instrumentation
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : Installing Sinatra instrumentation
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : Finished instrumentation
+[2020-09-05 03:19:25 +0000 ip-10-0-0-9 (15421)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : NEW_RELIC_KEY does not have a corresponding configuration setting (key does not exist).
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : Run `rake newrelic:config:docs` or visit https://newrelic.com/docs/ruby/ruby-agent-configuration to see a list of available configuration settings.
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : Starting the New Relic agent version 6.12.0.367 in "development" environment.
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : Reading configuration from config/newrelic.yml (/home/isucon/isucari/webapp/ruby)
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : Environment: development
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : No known dispatcher detected.
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : Application: isucari-20200905 (Development)
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] ERROR : Invalid license key: ENV['NEW_RELIC_KEY']
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : Installing Net instrumentation
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : Installing Sinatra instrumentation
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : Finished instrumentation
+[2020-09-05 03:19:26 +0000 ip-10-0-0-9 (15458)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : NEW_RELIC_KEY does not have a corresponding configuration setting (key does not exist).
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : Run `rake newrelic:config:docs` or visit https://newrelic.com/docs/ruby/ruby-agent-configuration to see a list of available configuration settings.
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : Starting the New Relic agent version 6.12.0.367 in "development" environment.
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : Reading configuration from config/newrelic.yml (/home/isucon/isucari/webapp/ruby)
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : Environment: development
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : No known dispatcher detected.
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : Application: isucari-20200905 (Development)
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] ERROR : Invalid license key: ENV['NEW_RELIC_KEY']
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : Installing Net instrumentation
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : Installing Sinatra instrumentation
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : Finished instrumentation
+[2020-09-05 03:20:33 +0000 ip-10-0-0-9 (15504)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : NEW_RELIC_KEY does not have a corresponding configuration setting (key does not exist).
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : Run `rake newrelic:config:docs` or visit https://newrelic.com/docs/ruby/ruby-agent-configuration to see a list of available configuration settings.
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : Starting the New Relic agent version 6.12.0.367 in "development" environment.
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : Reading configuration from config/newrelic.yml (/home/isucon/isucari/webapp/ruby)
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : Environment: development
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : No known dispatcher detected.
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : Application: isucari-20200905 (Development)
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] ERROR : Invalid license key: ENV['NEW_RELIC_KEY']
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : Installing Net instrumentation
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : Installing Sinatra instrumentation
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : Finished instrumentation
+[2020-09-05 03:20:34 +0000 ip-10-0-0-9 (15537)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : NEW_RELIC_KEY does not have a corresponding configuration setting (key does not exist).
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : Run `rake newrelic:config:docs` or visit https://newrelic.com/docs/ruby/ruby-agent-configuration to see a list of available configuration settings.
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : Starting the New Relic agent version 6.12.0.367 in "development" environment.
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : Reading configuration from config/newrelic.yml (/home/isucon/isucari/webapp/ruby)
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : Environment: development
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : No known dispatcher detected.
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : Application: isucari-20200905 (Development)
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] ERROR : Invalid license key: ENV['NEW_RELIC_KEY']
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : Installing Net instrumentation
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : Installing Sinatra instrumentation
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : Finished instrumentation
+[2020-09-05 03:20:35 +0000 ip-10-0-0-9 (15576)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : NEW_RELIC_KEY does not have a corresponding configuration setting (key does not exist).
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : Run `rake newrelic:config:docs` or visit https://newrelic.com/docs/ruby/ruby-agent-configuration to see a list of available configuration settings.
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : Starting the New Relic agent version 6.12.0.367 in "development" environment.
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : Reading configuration from config/newrelic.yml (/home/isucon/isucari/webapp/ruby)
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : Environment: development
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : No known dispatcher detected.
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : Application: isucari-20200905 (Development)
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] ERROR : Invalid license key: ENV['NEW_RELIC_KEY']
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : Installing Net instrumentation
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : Installing Sinatra instrumentation
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : Finished instrumentation
+[2020-09-05 03:20:36 +0000 ip-10-0-0-9 (15612)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : NEW_RELIC_KEY does not have a corresponding configuration setting (key does not exist).
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : Run `rake newrelic:config:docs` or visit https://newrelic.com/docs/ruby/ruby-agent-configuration to see a list of available configuration settings.
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : Starting the New Relic agent version 6.12.0.367 in "development" environment.
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : Reading configuration from config/newrelic.yml (/home/isucon/isucari/webapp/ruby)
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : Environment: development
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : No known dispatcher detected.
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : Application: isucari-20200905 (Development)
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] ERROR : Invalid license key: ENV['NEW_RELIC_KEY']
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : Installing Net instrumentation
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : Installing Sinatra instrumentation
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : Finished instrumentation
+[2020-09-05 03:20:37 +0000 ip-10-0-0-9 (15648)] INFO : Doing deferred dependency-detection before Rack startup
